@@ -23,10 +23,10 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                                  | Link                                    |
 |----------------------------------------------|-----------------------------------------|
-| Mini Project:1 ALU                                   | [<a href="https://github.com/EdigaSuseela407/G9_VLSI/tree/main/Mini%20Projects/SUSEELA/Mini%20Project-1">Click here</a>]|
-| Mini Project:2 Carry Look Ahead Adder                | [<a href="https://github.com/EdigaSuseela407/G9_VLSI/tree/main/Mini%20Projects/SUSEELA/Mini%20Project-2">Click here</a>]|
-| Mini Project:3 Design Of FIFO                        | [<a href="https://github.com/EdigaSuseela407/G9_VLSI/tree/main/Mini%20Projects/SUSEELA/Mini%20Project-3">Click here</a>]|
-| Mini Project:4 RAM                                   | [<a href="https://github.com/EdigaSuseela407/G9_VLSI/tree/main/Mini%20Projects/SUSEELA/Mini%20Project-4">Click here</a>]|
-| Mini Project:5 Round Robin Arbiter                   | [<a href="https://github.com/EdigaSuseela407/G9_VLSI/tree/main/Mini%20Projects/SUSEELA/Mini%20Project-5">Click here</a>]|
-| Mini Project:6 Univ_Shift_Reg                        | [<a href="https://github.com/EdigaSuseela407/G9_VLSI/tree/main/Mini%20Projects/SUSEELA/Mini%20Project-6">Click here</a>]|
-| Final Project: Design of I2C Protocol                | [<a href="https://github.com/EdigaSuseela407/G9_VLSI/tree/main/Final%20Capstone%20Project/SUSEELA">Click here</a>]|
+| Mini Project:1 ALU                                   | [<a href="https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/SUSEELA/Mini%20Project-1">Click here</a>]|
+| Mini Project:2 Carry Look Ahead Adder                | [<a href="https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/SUSEELA/Mini%20Project-2">Click here</a>]|
+| Mini Project:3 Design Of FIFO                        | [<a href="https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/SUSEELA/Mini%20Project-3">Click here</a>]|
+| Mini Project:4 RAM                                   | [<a href="https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/SUSEELA/Mini%20Project-4">Click here</a>]|
+| Mini Project:5 Round Robin Arbiter                   | [<a href="https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/SUSEELA/Mini%20Project-5">Click here</a>]|
+| Mini Project:6 Univ_Shift_Reg                        | [<a href="https://github.com/sure-trust/G9_VLSI/tree/main/Mini%20Projects/SUSEELA/Mini%20Project-6">Click here</a>]|
+| Final Project: Design of I2C Protocol                | [<a href="https://github.com/sure-trust/G9_VLSI/tree/main/Final%20Capstone%20Project/SUSEELA">Click here</a>]|
